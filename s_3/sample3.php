@@ -1,3 +1,3 @@
 <?php
-print("sample3‚Å‚·I");
+print("sample3ã§ã™ï¼");
 ?>
